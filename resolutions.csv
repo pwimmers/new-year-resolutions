@@ -1,9 +1,7 @@
-title,description,status,category
-Learn a new programming language,Master Python and build 3 projects,in-progress,Learning
-Exercise regularly,Go to the gym 3 times per week,not-started,Health
-Read 24 books,Read 2 books per month throughout the year,not-started,Learning
-Travel to 3 new countries,Visit Japan, Iceland, and New Zealand,not-started,Travel
-Complete a marathon,Run a full marathon by end of year,not-started,Health
-Learn to play guitar,Master 10 songs on acoustic guitar,in-progress,Hobbies
-Write a blog,Start a tech blog and publish monthly posts,not-started,Writing
-Meditate daily,10 minutes of meditation every morning,not-started,Wellness
+title,description,status,category,current,target,link
+Marathon < 4,Run a marathon below 4 hours,in-progress,Running,,4:00,
+Marathon weight < 70kg, Reach a target weight of 70kg for the Düsseldorf marathon 26.04.26,in-progress,Weight,73,70,
+Half-Marathon < 1:45,Run a half-marathon below 1 hour 45 minutes,not-started,Running,1:51:57,1:45,https://my3.raceresult.com/44586/certificate/778/L%C3%A4ufer%20Brutto%2BNetto%20alle%20TN
+10km < 45,Run 10km below 45 minutes,not-started,Running,45:30,45:00,https://my2.raceresult.com/337357/certificate/4763/02-URKUNDE%7CUrkunde-Alle
+5km < 21,Run 5km below 21 minutes,not-started,Running,22:03,21:00,https://www.strava.com/activities/16403437040
+
